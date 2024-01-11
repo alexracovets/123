@@ -13,7 +13,7 @@ export default function CanvasWrapper() {
             gl={{ preserveDrawingBuffer: true }}
             camera={{ fov: 90, near: 0.1, far: 1000 }}
         >
-            <directionalLight position={[0, 5, 5]} intensity={1} />
+            <directionalLight position={[0, 5, 5]} intensity={1} color={'#fd0'} />
             <ambientLight intensity={3} />
             <Controls />
             <Annotations />

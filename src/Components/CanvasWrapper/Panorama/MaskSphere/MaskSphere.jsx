@@ -20,7 +20,7 @@ export default function MaskSphere({ id, texture, args }) {
     const [isActive, setIsActive] = useState(false);
 
     useEffect(() => {
-        const animParam = { opacity: isActive ? 0 : 1 };
+        const animParam = { opacity: isActive ? 0 : 0.5 };
         const animOpacity = (opacity) => {
             gsap.to(animParam, {
                 duration: .3,
@@ -31,7 +31,7 @@ export default function MaskSphere({ id, texture, args }) {
         };
         
         cursor(isActive);
-        isActive ? animOpacity(1) : animOpacity(0);
+        isActive ? animOpacity(0.5) : animOpacity(0);
     }, [isActive]);
 
     return (

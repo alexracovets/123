@@ -1,0 +1,122 @@
+{
+    "language": "EN",
+    "menu": {
+        "menu": "Menu",
+        "paper": "Paper",
+        "glass": "Glass",
+        "plastic": "Plastic",
+        "metal": "Metal",
+        "bio": "Bio",
+        "eco": "Eco Zone",
+        "other": "Other Waste",
+        "report": "Eco Report"
+    },
+    "annotation": {
+        "button": "Open Link",
+        "1": {
+            "title": "Street",
+            "location": "Location - opposite to Check Point 1"
+        },
+        "2": {
+            "title": "Reception",
+            "location": "Location - across from the reception of the Support Office"
+        },
+        "3": {
+            "title": "4th floor",
+            "location": "Location - food court, 4th floor of the Support Office"
+        },
+        "4": {
+            "title": "Recycling Center",
+            "location": "Location - Distribution Center"
+        },
+        "5": {
+            "title": "Food Court of the Order Picking Shop",
+            "location": "Location - Food Court of the Order Picking Shop"
+        },
+        "6": {
+            "title": "DC Food court",
+            "location": "Location - food court of the Distribution Center"
+        },
+        "7": {
+            "title": "Sports ground",
+            "location": "Location - recreation area on the DC territory"
+        },
+        "8": {
+            "title": "Bicycle parking",
+            "location": "Location - near the Check Point 1"
+        },
+        "9": {
+            "title": "Kaizen",
+            "location": "Location - across from the Support Office"
+        }
+    },
+    "panoramaPopUp": {
+        "1": {
+            "title": "Cages for collecting plastic bottles",
+            "tag": [
+                "Street cages have been installed where used plastic bottles can be thrown away, pre-cleaned and crumpled to a flat state or twisted to take up less space.",
+                "The collected plastic is sent for recycling and reuse."
+            ]
+        },
+        "2": {
+            "title": "Boxes for collecting used batteries and disposable e-cigarettes",
+            "tag": [
+                "Used batteries contain a number of dangerous toxic components, such as lead, manganese, lithium, and zinc.",
+                "If they are dumped in conventional landfills instead of being recycled, the toxins begin to poison water and soil, as well as plants growing nearby.",
+                "Disposable e-cigarettes pose no less of a threat to the environment, as their consumption has increased dramatically in recent years, aggravating the problem of their disposal."
+            ]
+        },
+        "3_1": {
+            "title": "Containers for waste sorting",
+            "tag": [
+                "Containers for waste sorting (bio, metal, glass, plastic, waste paper and other waste) are installed.",
+                "Sorting helps to turn waste into a resource: to make things or energy from it, and to reduce the number of landfills, and thus protect ecosystems from destruction."
+            ]
+        },
+        "3_2": {
+            "title": "Подрібнювач Харчових Відходів",
+            "tag": [
+                "The food court also has a food waste shredder under the sink - an eco-friendly solution for recycling leftovers."
+            ]
+        },
+        "4": {
+            "title": "Recycling Center",
+            "tag": [
+                "Here, used and collected waste paper and stretch wrap are pressed into compact bales, which reduces their volume by several times.",
+                "This helps to free up storage space. This makes it easier to transport recyclables for further processing and reuse."
+            ]
+        },
+        "5": {
+            "title": "Containers for waste sorting",
+            "tag": [
+                "Containers for waste sorting (bio, metal, glass, plastic, waste paper and other waste) are installed.",
+                "Sorting helps to turn waste into a resource: to make things or energy from it, and to reduce the number of landfills, and thus protect ecosystems from destruction."
+            ]
+        },
+        "6": {
+            "title": "Containers for waste sorting",
+            "tag": [
+                "Containers for waste sorting (bio, metal, glass, plastic, waste paper and other waste) are installed.",
+                "Sorting helps to turn waste into a resource: to make things or energy from it, and to reduce the number of landfills, and thus protect ecosystems from destruction."
+            ]
+        },
+        "9": {
+            "title": "Kaizen park",
+            "tag": [
+                "This is our Office's green lungs, where you can relax in a natural area during a break or hold a working meeting in the open air.",
+                "There are pedestrian walkways and benches with a canopy.",
+                "Trees in the park create a cozy atmosphere and a pleasant shade from the sun. Green spaces have a positive impact on the urban climate, retain dust and gases, and thus contribute to air purification."
+            ]
+        }
+    },
+    "toBackPopUp": {
+        "isHere": "Are you here?",
+        "yes": "yes"
+    },
+    "load_panoram": "Downloading a virtual tour...",
+    "load_report": "Loading Eco Report...",
+    "DC": {
+        "poltava": "DC Poltava",
+        "vinnitsa": "DC Vinnitsya"
+    }
+}

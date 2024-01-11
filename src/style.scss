@@ -1,0 +1,34 @@
+@import './global/fonts.scss';
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html,
+body,
+#avrora {
+    width: 100%;
+    height: 100%;
+    user-select: none;
+}
+
+@media (min-width: 1921px) {
+    html {
+        font-size: 0.897vw;
+    }
+}
+
+canvas {
+    background-color: #cbcbcb;
+}
+
+button,
+a {
+    cursor: pointer;
+}
+
+img {
+    -webkit-user-drag: none;
+}

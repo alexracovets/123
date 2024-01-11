@@ -1,0 +1,24 @@
+@import '../../../global/variable.scss';
+
+
+.redirect {
+    position: absolute;
+    right: 1.5rem;
+    top: 2rem;
+    width: 12rem;
+    height: 6.45dvh;
+    color: $base-black;
+    font-size: 1.4rem;
+    font-family: $font-mont;
+    font-weight: bold;
+    border: none;
+    border-radius: 1rem;
+    background-color: $base-yellow;
+    box-shadow: 0.125rem 0.25rem 0 rgba(0, 0, 0, 0.1254901961);
+    transform: translateX(30rem);
+    transition: all ease-in-out 300ms;
+
+    &.active {
+        transform: translateX(0);
+    }
+}
